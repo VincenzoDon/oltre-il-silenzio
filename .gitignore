@@ -1,0 +1,5 @@
+models/
+llama/
+*.zip
+*.gguf
+__pycache__/
