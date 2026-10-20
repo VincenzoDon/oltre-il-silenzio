@@ -1,0 +1,7 @@
+ep_CONTINUA_DA_SOLO,ep_DEGENERATO,ep_INTERLOCUTORE_IMMAGINATO,ep_NON_TACE,inter,n,obs,silenzio_es,silenzio_medio,tace_rate
+0.822,0.078,0.1,0.0,ai,90,neutro,3.72,51.36,1.0
+0.667,0.089,0.244,0.0,umano,90,neutro,4.79,57.4,1.0
+0.778,0.067,0.156,0.0,ai,90,osservato,3.38,50.94,1.0
+0.678,0.078,0.233,0.011,umano,90,osservato,5.2,56.88,0.989
+0.867,0.056,0.067,0.011,ai,90,privato,4.52,56.04,0.989
+0.756,0.067,0.178,0.0,umano,90,privato,6.96,65.6,1.0
