@@ -1,0 +1,7 @@
+ep_CONTINUA_DA_SOLO,ep_DEGENERATO,ep_NON_TACE,ep_NUOVO_TURNO_PROPRIO,inter,n,obs,silenzio_es,silenzio_medio,tace_rate
+0.889,0.0,0.1,0.011,ai,90,neutro,13.95,152.25,0.9
+0.867,0.0,0.133,0.0,umano,90,neutro,14.29,154.69,0.867
+0.9,0.0,0.1,0.0,ai,90,osservato,13.08,139.32,0.9
+0.922,0.0,0.067,0.011,umano,90,osservato,12.94,159.5,0.933
+0.833,0.011,0.156,0.0,ai,90,privato,13.62,147.68,0.844
+0.911,0.0,0.078,0.011,umano,90,privato,13.02,166.63,0.922
