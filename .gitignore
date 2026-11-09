@@ -1,1 +1,6 @@
-404: Not Found
+models/
+__pycache__/
+*.pyc
+llama/
+llama.zip
+.venv/

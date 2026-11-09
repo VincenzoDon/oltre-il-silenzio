@@ -1,0 +1,11 @@
+url,status,has_chatbot,providers,title
+https://example.com,200,False,,Example Domain
+https://www.arti-italiane.example,ERR,False,error:ConnectionError,
+https://www.alderashhome.example.com,ERR,False,error:ConnectionError,
+https://www.intercom.com,200,True,"zendesk,hubspot",Intercom | A complete system for human and AI customer service
+https://www.zendesk.com,200,True,zendesk,Piattaforma di assistenza basata sull'AI | Zendesk
+https://www.tawk.to,200,True,"zendesk,tawk",tawk.to - Free Live Chat Software for Your Website
+https://www.crisp.chat,200,True,crisp,The AI Customer Support Platform for Every Business - Crisp
+https://www.livechat.com,200,True,"zendesk,hubspot,livechat",Live Chat Software with AI by Text | LiveChat.com
+https://www.drift.com,200,False,,Redirecting...
+https://www.hubspot.com,200,True,hubspot,HubSpot | Software & Tools for your Business - Homepage
