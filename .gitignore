@@ -1,6 +1,5 @@
 models/
-__pycache__/
-*.pyc
 llama/
-llama.zip
-.venv/
+*.zip
+*.gguf
+__pycache__/
